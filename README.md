@@ -32,8 +32,9 @@ Appropriate http error messages are handled in the file.
 
 1. Git clone this repository
 2. install the libraries under 'requirements.txt'
-3. Run file on shell `(works on any OS)`
+3. Run file on shell `(works on any OS)` **(either python or python3 according to your version)**
     ```
         python challenge.py
     ```
+
 4. Image of efficient file is saved in the folder
